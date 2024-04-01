@@ -6,3 +6,4 @@ build/
 docs/
 
 .vscode
+Deno.env
